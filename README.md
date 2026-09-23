@@ -26,8 +26,7 @@ International Conference on Circuit Power and Computing Technologies (ICCPCT)*,
 Kollam, India. **Best Paper Award.**
 
 ## My Contribution
-[Fill in: e.g. "Co-developed the CNN+Bi-LSTM forecasting model and the LightGBM
-grading stage" — say specifically what you built]
+Contributed across the full pipeline — preprocessing, WQI generation, the CNN+Bi-LSTM forecasting model, and the LightGBM grading stage — as part of a 5-member team for this KSPCB-supported research project.
 
 ## Repository Structure
 - `src/` — model training & pipeline code
