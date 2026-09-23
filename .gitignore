@@ -1,0 +1,23 @@
+# ZIP files
+*.zip
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Large generated files
+*.h5
+*.pth
+*.pt
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.venv/
